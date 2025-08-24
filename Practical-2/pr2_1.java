@@ -20,7 +20,7 @@ public class pr2_1
 		else if(c > a && c > b)
 		{
 		 System.out.println("C:" + c);
-		 System.out.println("B is maximum");
+		 System.out.println("C is maximum");
 		}
 		else{
 			System.out.println("All are equals");
