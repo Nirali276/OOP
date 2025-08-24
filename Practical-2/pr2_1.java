@@ -6,11 +6,8 @@ public class pr2_1 {
         int num3 = Integer.parseInt(args[2]);
 
         int max = num1;
-
-        if(num1 > num2 && num1 > num3){
-            max = num1;
-        }
-        else if(num2 > num1 && num2 > num3){
+		
+        if (num2 > max) {
             max = num2;
         }
         else{
