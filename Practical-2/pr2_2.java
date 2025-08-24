@@ -1,6 +1,6 @@
 public class pr2_2
 {
-public static void main(String args[])
+public static void main(String[] args)
 {
 double a=Double.parseDouble(args[0]);
 double b=Double.parseDouble(args[1]);
