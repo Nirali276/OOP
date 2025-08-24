@@ -1,6 +1,6 @@
 public class pr2_3
 {
-public static void main(String args[])
+public static void main(String[] args)
 {
 	int day = Integer.parseInt(args[0]);
 	System.out.println("Enter a number (1 to 7):");
